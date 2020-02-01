@@ -13,7 +13,7 @@ let package = Package(
     ],
     dependencies: [
         .package(
-            url: "https://github.com/PureSwift/CDBus.git",
+            url: "https://github.com/TaborKelly/CDBus.git",
             .branch("master")
         )
     ],
